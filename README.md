@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm that guy, I'm Lionel! 😄 
+
+Throughout my career, I've delved into a wide range of technologies, from the classics to the cutting-edge, and everything in between. This little space of Github is my playground where I share projects that I hope fellow developers will find useful. 
+
+🔭 I also fork numerous repositories to learn from the amazing work of others because learning is truly fun and inspiring. 🌱
+
 <!--
 **thatguylionel/thatguylionel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
