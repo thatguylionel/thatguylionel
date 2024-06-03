@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm that guy, I'm Lionel! 😄 
+I'm that guy, Lionel! 😄 
 
 Throughout my career, I've delved into a wide range of technologies, from the classics to the cutting-edge, and everything in between. This little space of Github is my playground where I share projects that I hope fellow developers will find useful. 
 
