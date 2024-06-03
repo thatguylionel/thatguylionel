@@ -20,7 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<iframe src="https://giphy.com/embed/xFkgeu7dhfgqqxJqmj" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/english4it-acid-english-for-it-eng4it-xFkgeu7dhfgqqxJqmj">via GIPHY</a></p>
-
 ![A_Cat_Gif_Is_Here](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjEwNXM1bDFxeWV4YnU3NDhwdm9oaXVyNDhvdzl5aGtrb2Z6eHJ6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xFkgeu7dhfgqqxJqmj/giphy.gif)
